@@ -1,0 +1,55 @@
+{
+  "id": "mausritter-ukrainian",
+  "title": "Translation: Ukrainian [Mausritter]",
+  "description": "Український переклад інтерфейсу і компендіумів для Маусріттера",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "authors": [
+    {
+      "name": "GMonline-ua",
+      "url": "https://github.com/GMonlineua",
+      "email": "gmonlineua@gmail.com",
+      "discord": "vlad_dracula"
+    },
+    {
+      "name": "Pan Oleksii"
+    }
+  ],
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "languages": [
+    {
+      "lang": "uk",
+      "name": "Українська (Ukrainian)",
+      "path": "lang/uk.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "mausritter",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "lang-ua",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}

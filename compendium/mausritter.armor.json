@@ -1,0 +1,22 @@
+{
+  "label": "Обладунки",
+  "mapping": {
+    "description": "system.description",
+    "color": "system.color",
+    "tag": "system.tag"
+  },
+  "entries": [
+    {
+      "name": "Легкий обладунок",
+      "id": "MbCIEp6TzoK08akp",
+      "tag": "Легке",
+      "description": ""
+    },
+    {
+      "name": "Важкий обладунок",
+      "id": "kcKH7sBam6En635G",
+      "tag": "",
+      "description": ""
+    }
+  ]
+}
