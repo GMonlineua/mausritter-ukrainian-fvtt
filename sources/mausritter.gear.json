@@ -1,0 +1,446 @@
+{
+  "label": "Gear",
+  "mapping": {
+    "placement": "system.placement",
+    "description": "system.description"
+  },
+  "entries": [
+    {
+        "name": "Glue",
+        "id": "0kVNBhOCRAWetQGb",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Net",
+        "id": "0yCyJ6ADcFo6h08F",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Book",
+        "id": "1FbcAeInIVBBXoyB",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Whistle",
+        "id": "2ibdQuqqcDrkdvTs",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Compass",
+        "id": "3VafgHWZBnAFj8M3",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Bottle of milk",
+        "id": "3b4wBjFkoWHTZ4D1",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Electric Lantern",
+        "id": "4earZoyzJPwEnauz",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Bottle",
+        "id": "5jrRJoqkEtDpUZUS",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Quill & ink",
+        "id": "8EMr2YGvQjhg3lej",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Bedroll",
+        "id": "8GMxZ1TCbhWQmwsv",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Mirror",
+        "id": "A8tlvt6vgRHmIN91",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Lantern",
+        "id": "BtSLesZiZQOt9yhj",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Metal File",
+        "id": "EW1wFKynBHddyyGq",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Cheese",
+        "id": "EmOPMHKtWMua1zhF",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Rations",
+        "id": "EuWZ26fjA7E0Gka0",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Disguise kit",
+        "id": "H72u8auTR4p0A1cU",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Torches",
+        "id": "IhV9bZ3WX8sQnJAp",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Goggles",
+        "id": "KN1j3bP1rAYXwh1R",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Chalk",
+        "id": "KX3ZrZF7Yly6KQ4z",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Grease",
+        "id": "KjMdsbdojwDXJFF1",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Wooden Spikes",
+        "id": "KppUOvvn8XrFP5yG",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Shovel",
+        "id": "Ln1kjNNNetZBPJOd",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Lens",
+        "id": "LsuTZqZTzZACXtBf",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Cookpots",
+        "id": "OZrpQkk9qrfvE79X",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Sealed documents",
+        "id": "PUc63ut2mgqUyGKs",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Barrel of ale",
+        "id": "Q8VPlUXtYVdzRUbS",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Shears",
+        "id": "QXn9R6uDfBWTnQsT",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Necklace Chain",
+        "id": "QgYJojJerwXayQQV",
+        "placement": "hand",
+        "description": null
+    },
+    {
+        "name": "Bucket",
+        "id": "Qx4VmVHXNmyacUkL",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Matchbox",
+        "id": "RNWwqAjfES5TOYhF",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Mushrooms",
+        "id": "TGNSgaCQsssts5os",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Wire, spool",
+        "id": "TJEiqBJXGRuiOHEQ",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Treasure map",
+        "id": "U8zT0oNputtkmoKZ",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Bag of bat teeth",
+        "id": "UYBlJt4TrBfa6cCV",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Loaded dice",
+        "id": "V4ChlJOFAJg1TEtu",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Moustrap",
+        "id": "VZEE5zeOXrqTZQEr",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Hireling: Loyal beetle",
+        "id": "WbznGS06x1gFfJ0X",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Chisel",
+        "id": "YCFM1jFDJ7CZ3bNI",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Bellows",
+        "id": "Z4aLmftg89RUfpUW",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Spore Mask",
+        "id": "ZsmzHWLCNH9M2L15",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Waterskin",
+        "id": "be6ea02WNMh5O9ow",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Stones",
+        "id": "cp458bYOtIwPZp4Q",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Thread",
+        "id": "e4SXeMrmG7TbLyRc",
+        "placement": "hand",
+        "description": null
+    },
+    {
+        "name": "Battery",
+        "id": "e8JWY1U6l4FBNNep",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Arrows",
+        "id": "eEh9d4ozBfoJJt7D",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Pip Purse",
+        "id": "ggmcbI5MP7i3EINr",
+        "description": ""
+    },
+    {
+        "name": "Lockpicks",
+        "id": "ghG9I5GwQwdGd83o",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Incense Stick",
+        "id": "h3vmVonEywSKtdjg",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Hourglass",
+        "id": "hyOUDp1FdjAr8Jqb",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Cheesewheel",
+        "id": "hzmDCkBVxvJOrrAg",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Holy Symbol",
+        "id": "is0vgpj8gTf7A8Dh",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Key",
+        "id": "isTdJXTa0dpJtdk4",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Scrap of obscure book",
+        "id": "jlvULohSiRf5ySqe",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "20p IOU from a noblemouse",
+        "id": "k4VMEXr5yyhlSF2c",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Instrument",
+        "id": "k9kmk6zA3u9IbHqJ",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Dice",
+        "id": "kMxQfo66zoCxuWg6",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Perfume",
+        "id": "l1GnC3gatjidKix9",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Hammer",
+        "id": "m3L7O0km0fQyw8pf",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Poison",
+        "id": "msJVB6OstIZ3AC2M",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Hireling",
+        "id": "nuK5O2X68yGQQ3k3",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Drill",
+        "id": "nyzOdgjgAxQ7wBOh",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Hireling: Drunken torchbearer",
+        "id": "t4KWOCDfm6L1AIFj",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Felt hat",
+        "id": "tBrL4wxGqs7pmLVi",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Wooden Pole",
+        "id": "vOqvTbPWoqUbB1yQ",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Jar of honey",
+        "id": "vQIpvCoaRe23aq4g",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Tent",
+        "id": "vjwIDZpIeczbKbW3",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Soap",
+        "id": "wDXdllAA6LjjCT6e",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Caltrops",
+        "id": "xsEwVxA3rE3TTtdF",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Flask of coffee",
+        "id": "yAW0nmonxXHg34iB",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Padlock and Key",
+        "id": "z5SsMFpZLtoJ4QW4",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Twine",
+        "id": "zd7a3t2PWGbTuMyt",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Crowbar",
+        "id": "zf7P6wzi794uqZfj",
+        "placement": "hand",
+        "description": ""
+    },
+    {
+        "name": "Fishing Hook",
+        "id": "zo3tuzkhjPuYkAOG",
+        "placement": "hand",
+        "description": ""
+    }
+  ]
+}

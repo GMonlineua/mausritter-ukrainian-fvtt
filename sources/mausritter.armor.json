@@ -1,0 +1,21 @@
+{
+  "label": "Armor",
+  "mapping": {
+    "description": "system.description",
+    "tag": "system.tag"
+  },
+  "entries": [
+    {
+        "name": "Light Armor",
+        "id": "MbCIEp6TzoK08akp",
+        "tag": "Light",
+        "description": ""
+    },
+    {
+        "name": "Heavy Armor",
+        "id": "kcKH7sBam6En635G",
+        "tag": "",
+        "description": ""
+    }
+  ]
+}

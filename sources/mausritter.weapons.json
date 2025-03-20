@@ -1,0 +1,108 @@
+{
+  "label": "Weapons",
+  "mapping": {
+    "description": "system.description",
+    "placement": "system.placement",
+    "tag": "system.tag"
+  },
+  "entries": [
+    {
+        "name": "Axe",
+        "id": "2gK7hXzu3TDGllTK",
+        "placement": "hand",
+        "tag": "Medium",
+        "description": ""
+    },
+    {
+        "name": "Bow",
+        "id": "3UYDZQVca8rmErbU",
+        "placement": "hand",
+        "tag": "Heavy Ranged",
+        "description": ""
+    },
+    {
+        "name": "Improvised",
+        "id": "4WnNxpJ5RNafoCi3",
+        "placement": "hand",
+        "tag": "Improvised",
+        "description": ""
+    },
+    {
+        "name": "Cleaver",
+        "id": "4fi0j9IibcIrZluK",
+        "placement": "hand",
+        "tag": "Light",
+        "description": ""
+    },
+    {
+        "name": "Hookarm",
+        "id": "6tTCXWnqP2CK8IDe",
+        "placement": "hand",
+        "tag": "Heavy",
+        "description": ""
+    },
+    {
+        "name": "Pick",
+        "id": "HqrIfbl7JpRpC0tQ",
+        "placement": "hand",
+        "tag": "Medium",
+        "description": ""
+    },
+    {
+        "name": "Hammer",
+        "id": "LIkXPQid5FNuX393",
+        "placement": "hand",
+        "tag": "Medium",
+        "description": ""
+    },
+    {
+        "name": "Sling",
+        "id": "O7ZKkdJ5kmAzCOHr",
+        "placement": "hand",
+        "tag": "Light Ranged",
+        "description": ""
+    },
+    {
+        "name": "Sword",
+        "id": "R0VejRjAELxknNbN",
+        "placement": "hand",
+        "tag": "Medium",
+        "description": ""
+    },
+    {
+        "name": "Spear",
+        "id": "Ttuqe7BGihXRLziq",
+        "placement": "hand",
+        "tag": "Heavy",
+        "description": ""
+    },
+    {
+        "name": "Needle",
+        "id": "kZVwXUFnlj4xi7zi",
+        "placement": "hand",
+        "tag": "Light",
+        "description": ""
+    },
+    {
+        "name": "Mace",
+        "id": "tpoh5HciZgfppCAt",
+        "placement": "hand",
+        "tag": "Medium",
+        "description": ""
+    },
+    {
+        "name": "Warhammer",
+        "id": "uTBQtiPtEvUpntJH",
+        "placement": "hand",
+        "tag": "Heavy",
+        "description": ""
+    },
+    {
+        "name": "Dagger",
+        "id": "w3BvIQul7s6pwkG8",
+        "placement": "hand",
+        "tag": "Light",
+        "description": ""
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "label": "Conditions",
+  "mapping": {
+    "clear": "system.clear",
+    "desc": "system.desc",
+    "description": "system.description"
+  },
+  "entries": [
+    {
+        "name": "Exhausted",
+        "id": "38IWuPPrYzfNNDAh",
+        "clear": "After long Rest",
+        "desc": "",
+        "description": ""
+    },
+    {
+        "name": "Drained",
+        "id": "7I5dOIMc92zzLpkB",
+        "clear": "After full rest",
+        "desc": "Disadvantage on WIL saves",
+        "description": ""
+    },
+    {
+        "name": "Frightened",
+        "id": "MOsDUj5AaRQj1DWi",
+        "clear": "After short rest",
+        "desc": "WIL save to approach source of fear",
+        "description": ""
+    },
+    {
+        "name": "Hungry",
+        "id": "eUkaF42zUsZOU6dJ",
+        "clear": "After meal",
+        "desc": "",
+        "description": ""
+    },
+    {
+        "name": "Injured",
+        "id": "fnmAqR6KUnJL0sr7",
+        "clear": "After full rest",
+        "desc": "Disadvantage on STR & DEX saves",
+        "description": ""
+    },
+    {
+        "name": "Custom",
+        "id": "rvRGaqqRaN2YtMGk",
+        "clear": "",
+        "desc": "",
+        "description": ""
+    }
+  ]
+}

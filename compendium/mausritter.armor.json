@@ -2,7 +2,6 @@
   "label": "Обладунки",
   "mapping": {
     "description": "system.description",
-    "color": "system.color",
     "tag": "system.tag"
   },
   "entries": [

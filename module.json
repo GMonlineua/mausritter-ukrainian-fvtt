@@ -4,18 +4,20 @@
   "description": "Український переклад інтерфейсу і компендіумів для Маусріттера",
   "version": "0.1",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.331"
+    "minimum": "11",
+    "verified": "12.331",
+    "maximum": "13"
   },
   "authors": [
     {
-      "name": "GMonline-ua",
-      "url": "https://github.com/GMonlineua",
+      "name": "GMonline UA",
+      "discord": "vlad_dracula",
       "email": "gmonlineua@gmail.com",
-      "discord": "vlad_dracula"
+      "url": "https://bsky.app/profile/gmonline-ua.bsky.social"
     },
     {
-      "name": "Pan Oleksii"
+      "name": "Pan Oleksii",
+      "discord": "oleksiipan"
     }
   ],
   "esmodules": [
@@ -25,8 +27,7 @@
     {
       "lang": "uk",
       "name": "Українська (Ukrainian)",
-      "path": "lang/uk.json",
-      "flags": {}
+      "path": "lang/uk.json"
     }
   ],
   "relationships": {
@@ -51,5 +52,10 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "url": "https://github.com/GMonlineua/mausritter-ukrainian-fvtt",
+  "readme": "https://github.com/GMonlineua/mausritter-ukrainian-fvtt/blob/main/README.md",
+  "license": "https://github.com/GMonlineua/mausritter-ukrainian-fvtt/blob/main/LICENSE.md",
+  "manifest": "https://raw.githubusercontent.com/GMonlineua/mausritter-ukrainian-fvtt/main/module.json",
+  "download": "https://github.com/GMonlineua/mausritter-ukrainian-fvtt/releases/download/v0.1/foundry.zip"
 }

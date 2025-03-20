@@ -1,0 +1,75 @@
+{
+  "label": "Creatures",
+  "mapping": {
+    "disposition": "system.description.disposition",
+    "notes": "system.notes"
+  },
+  "entries": [
+    {
+        "name": "Ghost",
+        "id": "5o4Cbd94vF3W3xTL",
+        "disposition": "freedom from the pain that binds them to the mortal realm",
+        "notes": "<h2><strong>Ghostly powers</strong></h2>\n<table style=\"width: 71.4596%; height: 96px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>1</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Shimmer&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Create d3 illusions of itself</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>2</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Poltergeist&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Throws a creature/object d6 x 6\"</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>3</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Entrap&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Pull a creature into the spirit realm for a Round</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>4</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Doom&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Give Frightened Condition to a creature</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>5</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Rot</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">&nbsp;Destroys all rations carried by a creature</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>6</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Incorporeal&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Float into wall/floor, reappear elsewhere</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+        "name": "Rat",
+        "id": "98YntblP94LJm0dG",
+        "disposition": "Easy wealth, to take from the weak",
+        "notes": ""
+    },
+    {
+        "name": "Spider",
+        "id": "9p207ehzfo0grc7p",
+        "disposition": "To feed it's babies",
+        "notes": ""
+    },
+    {
+        "name": "Snake",
+        "id": "JxAGt6xR7m3yjumR",
+        "disposition": "to sleep undisturbed",
+        "notes": ""
+    },
+    {
+        "name": "Cat",
+        "id": "ObtzkZyQJ9s9W5GE",
+        "disposition": "To be served.",
+        "notes": ""
+    },
+    {
+        "name": "Mouse",
+        "id": "TyRERzdoQMmoDcG9",
+        "disposition": "to feel safe",
+        "notes": "<p>Starts with either a @Compendium[mausritter.weapons.3UYDZQVca8rmErbU]{Bow} or @Compendium[mausritter.weapons.R0VejRjAELxknNbN]{Sword}</p>"
+    },
+    {
+        "name": "Faerie",
+        "id": "YEWobiwJoInGU4b3",
+        "disposition": "To further the Faerie Queen's strange agenda",
+        "notes": ""
+    },
+    {
+        "name": "Owl",
+        "id": "iUahsB2j7BLHVo1Z",
+        "disposition": "To collect rare knowledge and spells",
+        "notes": "<p><strong>Flys 3x normal speed. Knows two spells</strong></p>"
+    },
+    {
+        "name": "Frog",
+        "id": "lWWcOyD8b2fNnI9n",
+        "disposition": "To gallantly complete their quest.",
+        "notes": "<p><strong>Always goes first unless surprised, leaps 2x normal speed</strong></p>"
+    },
+    {
+        "name": "Crow",
+        "id": "mzrkpE9IFxzE6XkA",
+        "disposition": "to protect the secret hallowed places",
+        "notes": "<p>Flys 3x normal speed, knows two songs</p>\n<h2><strong>Crow Songs</strong></h2>\n<table style=\"width: 460px; height: 96px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>1</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Dawn&nbsp;</strong></td>\n<td style=\"width: 317px; height: 16px;\">Create a blindingly bright light</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>2</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Sorrow</strong></td>\n<td style=\"width: 317px; height: 16px;\">All who hear: Make WIL save or take Frightened</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>3</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Sight</strong></td>\n<td style=\"width: 317px; height: 16px;\">Vaguely foretell a future event</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>4</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Wind</strong></td>\n<td style=\"width: 317px; height: 16px;\">Powerful gust. Make STR save or knocked down.</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>5</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Past</strong></td>\n<td style=\"width: 317px; height: 16px;\">See past event concerning those present</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>6</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Truth</strong></td>\n<td style=\"width: 317px; height: 16px;\">All who hear: Cannot lie while the song lasts</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+        "name": "Centipede",
+        "id": "vO2MaHWJBn4f8ijy",
+        "disposition": "To wander and devour",
+        "notes": ""
+    }
+  ]
+}
