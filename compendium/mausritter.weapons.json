@@ -1,0 +1,108 @@
+{
+  "label": "Зброя",
+  "mapping": {
+    "description": "system.description",
+    "placement": "system.placement",
+    "tag": "system.tag"
+  },
+  "entries": [
+    {
+      "name": "Сокира",
+      "id": "2gK7hXzu3TDGllTK",
+      "placement": "hand",
+      "tag": "Середня",
+      "description": ""
+    },
+    {
+      "name": "Лук",
+      "id": "3UYDZQVca8rmErbU",
+      "placement": "hand",
+      "tag": "Важка дистанційна",
+      "description": ""
+    },
+    {
+      "name": "Імпровізована",
+      "id": "4WnNxpJ5RNafoCi3",
+      "placement": "hand",
+      "tag": "Імпровізована",
+      "description": ""
+    },
+    {
+      "name": "Тесак",
+      "id": "4fi0j9IibcIrZluK",
+      "placement": "hand",
+      "tag": "Легка",
+      "description": ""
+    },
+    {
+      "name": "Гак для сміття",
+      "id": "6tTCXWnqP2CK8IDe",
+      "placement": "hand",
+      "tag": "Важка",
+      "description": ""
+    },
+    {
+      "name": "Кирка",
+      "id": "HqrIfbl7JpRpC0tQ",
+      "placement": "hand",
+      "tag": "Середня",
+      "description": ""
+    },
+    {
+      "name": "Молот",
+      "id": "LIkXPQid5FNuX393",
+      "placement": "hand",
+      "tag": "Середня",
+      "description": ""
+    },
+    {
+      "name": "Праща",
+      "id": "O7ZKkdJ5kmAzCOHr",
+      "placement": "hand",
+      "tag": "Легка дистанційна",
+      "description": ""
+    },
+    {
+      "name": "Меч",
+      "id": "R0VejRjAELxknNbN",
+      "placement": "hand",
+      "tag": "Середня",
+      "description": ""
+    },
+    {
+      "name": "Спис",
+      "id": "Ttuqe7BGihXRLziq",
+      "placement": "hand",
+      "tag": "Важка",
+      "description": ""
+    },
+    {
+      "name": "Голка",
+      "id": "kZVwXUFnlj4xi7zi",
+      "placement": "hand",
+      "tag": "Легка",
+      "description": ""
+    },
+    {
+      "name": "Булава",
+      "id": "tpoh5HciZgfppCAt",
+      "placement": "hand",
+      "tag": "Середня",
+      "description": ""
+    },
+    {
+      "name": "Бойовий молот",
+      "id": "uTBQtiPtEvUpntJH",
+      "placement": "hand",
+      "tag": "Важка",
+      "description": ""
+    },
+    {
+      "name": "Кинджал",
+      "id": "w3BvIQul7s6pwkG8",
+      "placement": "hand",
+      "tag": "Легка",
+      "description": ""
+    }
+  ]
+}

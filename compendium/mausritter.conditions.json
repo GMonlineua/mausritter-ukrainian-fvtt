@@ -1,0 +1,52 @@
+{
+  "label": "Стани",
+  "mapping": {
+    "clear": "system.clear",
+    "desc": "system.desc",
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "name": "Виснажений",
+      "id": "38IWuPPrYzfNNDAh",
+      "clear": "Після тривалого відпочинку",
+      "desc": "",
+      "description": ""
+    },
+    {
+      "name": "Спустошений",
+      "id": "7I5dOIMc92zzLpkB",
+      "clear": "Після повного відпочинку",
+      "desc": "Перешкода на перевірки ВОЛ",
+      "description": ""
+    },
+    {
+      "name": "Наляканий",
+      "id": "MOsDUj5AaRQj1DWi",
+      "clear": "Після короткого відпочинку",
+      "desc": "Перевірка ВОЛ, щоб наблизитися до джерела страху",
+      "description": ""
+    },
+    {
+      "name": "Голодний",
+      "id": "eUkaF42zUsZOU6dJ",
+      "clear": "Після прийому їжі",
+      "desc": "",
+      "description": ""
+    },
+    {
+      "name": "Травмований",
+      "id": "fnmAqR6KUnJL0sr7",
+      "clear": "Після повного відпочинку",
+      "desc": "Перешкода на перевірки СИЛ і МОТ",
+      "description": ""
+    },
+    {
+      "name": "Бланк",
+      "id": "rvRGaqqRaN2YtMGk",
+      "clear": "",
+      "desc": "",
+      "description": ""
+    }
+  ]
+}
