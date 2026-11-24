@@ -29,7 +29,7 @@
  - [Локалізація PF 2e](https://foundryvtt.com/packages/pfe2ukua)
  - [Локалізація D&D5e](https://foundryvtt.com/packages/lang-uk-dnd5e)
 
-[Foundry]: https://img.shields.io/badge/Foundry-12.343-orange?style=flat-square
+[Foundry]: https://img.shields.io/badge/Foundry-14-orange?style=flat-square
 [Foundry URL]: https://foundryvtt.com
 
 [Version]: https://img.shields.io/badge/Version-0.3-informational?style=flat-square
