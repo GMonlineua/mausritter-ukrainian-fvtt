@@ -2,74 +2,64 @@
   "label": "Істоти",
   "mapping": {
     "disposition": "system.description.disposition",
-    "notes": "system.notes"
+    "notes": "system.notes",
+    "name": "name"
   },
-  "entries": [
-    {
+  "entries": {
+    "5o4Cbd94vF3W3xTL": {
       "name": "Привид",
-      "id": "5o4Cbd94vF3W3xTL",
       "disposition": "звільнитися від болю, що прив'язує його до Царства смертних",
       "notes": "<h2><strong>Примарні сили</strong></h2>\n<table style=\"width: 71.4596%; height: 96px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>1</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Мерехтіння&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Створює к3 ілюзій самого себе</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>2</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Полтергейст&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Кидає істоту/предмет на к6 x 6 дюймів</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>3</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Пастка&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Затягує істоту в Царство духів на Раунд</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>4</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Фатум&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Надає істоті Наляканий стан</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>5</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Гниль</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">&nbsp;Знищує всі їстівні припаси істоти</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 11.1746%; text-align: center; height: 16px;\"><strong>6</strong></td>\n<td style=\"width: 19.6934%; height: 16px;\"><strong>Безтілесність&nbsp;</strong></td>\n<td style=\"width: 68.3544%; height: 16px;\">Пірнає у стіну/підлогу, з'являється в іншому місці</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
-    {
+    "98YntblP94LJm0dG": {
       "name": "Щур",
-      "id": "98YntblP94LJm0dG",
       "disposition": "легкого багатства, відібраного у слабших",
       "notes": ""
     },
-    {
+    "9p207ehzfo0grc7p": {
       "name": "Павук",
-      "id": "9p207ehzfo0grc7p",
       "disposition": "нагодувати своїх дітей",
       "notes": ""
     },
-    {
+    "JxAGt6xR7m3yjumR": {
       "name": "Змія",
-      "id": "JxAGt6xR7m3yjumR",
       "disposition": "спокійно спати",
       "notes": ""
     },
-    {
+    "ObtzkZyQJ9s9W5GE": {
       "name": "Кіт",
-      "id": "ObtzkZyQJ9s9W5GE",
       "disposition": "щоб йому служили. Якщо миші клянуться у вірності\nй дають хабарі, їх можуть залишити живими",
       "notes": ""
     },
-    {
+    "TyRERzdoQMmoDcG9": {
       "name": "Миша",
-      "id": "TyRERzdoQMmoDcG9",
       "disposition": "почуватися у безпеці",
       "notes": "<p>Розпочинає з Луком або Мечем</p>"
     },
-    {
+    "YEWobiwJoInGU4b3": {
       "name": "Фея",
-      "id": "YEWobiwJoInGU4b3",
       "disposition": "втілювати дивні задуми Цариці фей",
       "notes": ""
     },
-    {
+    "iUahsB2j7BLHVo1Z": {
       "name": "Сова",
-      "id": "iUahsB2j7BLHVo1Z",
       "disposition": "збирати рідкісні знання та закляття",
       "notes": "<p>Літає в 3 рази швидше за звичайну швидкість. Знає два закляття</p>"
     },
-    {
+    "lWWcOyD8b2fNnI9n": {
       "name": "Жаба",
-      "id": "lWWcOyD8b2fNnI9n",
       "disposition": "доблесно завершити подвиг",
       "notes": "<p>Завжди ходить першою, якщо не застали зненацька, стрибає\nзі швидкістю, що перевищує нормальну в 2 рази</p>"
     },
-    {
+    "mzrkpE9IFxzE6XkA": {
       "name": "Ворона",
-      "id": "mzrkpE9IFxzE6XkA",
       "disposition": "захистити таємні священні місця від тих, хто може \nзавдати їм шкоди",
       "notes": "<p>Літає у 3 рази швидше за звичайну швидкість, знає дві пісні</p>\n<h2><strong>Воронячі пісні</strong></h2>\n<table style=\"width: 460px; height: 96px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>1</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Зоря&nbsp;</strong></td>\n<td style=\"width: 317px; height: 16px;\">створює сліпучо яскраве світло</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>2</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Скорбота</strong></td>\n<td style=\"width: 317px; height: 16px;\">всі, хто чує: пройдіть перевірку ВОЛ\nабо станьте Наляканим</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>3</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Видіння</strong></td>\n<td style=\"width: 317px; height: 16px;\">туманно передбачає майбутню подію </td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>4</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Вітер</strong></td>\n<td style=\"width: 317px; height: 16px;\">потужний порив вітру. Пройдіть перевірку СИЛ\nабо будете збиті з ніг</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>5</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Минуле</strong></td>\n<td style=\"width: 317px; height: 16px;\">бачить минулу подію, що стосується присутніх</td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 48px; text-align: center; height: 16px;\"><strong>6</strong></td>\n<td style=\"width: 90px; height: 16px;\"><strong>Істина</strong></td>\n<td style=\"width: 317px; height: 16px;\">всі, хто чує: не можуть брехати, доки триває пісня</td>\n</tr>\n</tbody>\n</table>"
     },
-    {
+    "vO2MaHWJBn4f8ijy": {
       "name": "Сколопендра",
-      "id": "vO2MaHWJBn4f8ijy",
       "disposition": "тинятися і жерти",
       "notes": ""
     }
-  ]
+  }
 }

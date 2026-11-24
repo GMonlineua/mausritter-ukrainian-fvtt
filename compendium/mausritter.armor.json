@@ -2,20 +2,19 @@
   "label": "Обладунки",
   "mapping": {
     "description": "system.description",
-    "tag": "system.tag"
+    "tag": "system.tag",
+    "name": "name"
   },
-  "entries": [
-    {
+  "entries": {
+    "MbCIEp6TzoK08akp": {
       "name": "Легкий обладунок",
-      "id": "MbCIEp6TzoK08akp",
       "tag": "Легке",
       "description": ""
     },
-    {
+    "kcKH7sBam6En635G": {
       "name": "Важкий обладунок",
-      "id": "kcKH7sBam6En635G",
       "tag": "",
       "description": ""
     }
-  ]
+  }
 }

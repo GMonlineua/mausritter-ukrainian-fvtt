@@ -1,83 +1,69 @@
 {
   "label": "Закляття",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "name": "name"
   },
-  "entries": [
-    {
+  "entries": {
+    "0bpvALvoKL2UbQU1": {
       "name": "Відновлення",
-      "id": "0bpvALvoKL2UbQU1",
       "description": "<p><strong>Ефект:</strong> Знімає Виснажений або Наляканий стан з <strong>[КІСТКИ] + 1 </strong>істот.</p>\n<p><strong>Перезарядка:</strong> Закопати в спокійному полі або на березі річки на три доби.</p>"
     },
-    {
+    "522bNFc8JBYSmA63": {
       "name": "Невидимість",
-      "id": "522bNFc8JBYSmA63",
       "description": "<p><strong>Ефект:&nbsp;</strong>Робить істоту невидимою на <strong>[КІСТКИ]<strong> ходів. Будь-який рух зменшує тривалість на <strong>1 хід<strong>.</p>\n<p><strong>Перезарядка:</strong> Ходіть протягом дня, не розплющуючи очей та тримаючи закляття.</p>"
     },
-    {
+    "AolWd6dDfGNp8aaY": {
       "name": "Котяча м’ята",
-      "id": "AolWd6dDfGNp8aaY",
       "description": "<p><strong>Ефект:</strong> Перетворює об'єкт на непереборну приманку для котів. Триває <strong>[КІСТКИ]<strong> ходів.</p>\n<p><strong>Перезарядка:</strong> Зробіть коту подарунок, якого він щиро бажає.</p>"
     },
-    {
+    "CVKTeU3Sm6NRvDvj": {
       "name": "Зцілення",
-      "id": "CVKTeU3Sm6NRvDvj",
       "description": "<p><strong>Ефект:</strong>&nbsp;Зцілює <strong>[СУМА]<strong> шкоди по <strong>СИЛ<strong> і знімає Травмований стан з істоти.</p>\n<p><strong>Перезарядка:</strong> Поріжтеся, завдаючи <strong>к6<strong> шкоди по <strong>СИЛ<strong>, окропіть закляття кров'ю.</p>"
     },
-    {
+    "KwYZ2yIK6OUBf7Jp": {
       "name": "Зростання",
-      "id": "KwYZ2yIK6OUBf7Jp",
       "description": "<p><strong>Ефект:</strong> Збільшує істоту на кількість разів, кратну <strong>[КІСТКА] +1</strong> від початкового розміру на <strong>1 хід<strong>.</p>\n<p><strong>Перезарядка:</strong> Залишити на найвищій гілці високого дерева на три дні.</p>"
     },
-    {
+    "PDHmM25EL2ywt157": {
       "name": "Темрява",
-      "id": "PDHmM25EL2ywt157",
       "description": "<p><strong>Ефект:</strong> Створює сферу суцільної темряви діаметром <strong>[СУМА] x 2<strong> дюйми на <strong>[КІСТКИ]<strong> ходів.</p>\n<p><strong>Перезарядка:</strong> Залишити неприкритим у темному місці на три доби.</p>"
     },
-    {
+    "PN4t89z34mg6RQmL": {
       "name": "Вогнекуля",
-      "id": "PN4t89z34mg6RQmL",
       "description": "<p><strong>Ефект: </strong>Вистрілює вогняною кулею до <strong>24 дюймів<strong>. Завдає <strong>[СУМА] + [КІСТКИ]<strong> шкоди усім створінням у межах <strong>6 дюймів<strong>.</p>\n<p><strong>Перезарядка:</strong>&nbsp;Обпалювання у самому серці бурхливого полум'я три дні й три ночі.</p>"
     },
-    {
+    "TgwMnHCcdNWGNM1c": {
       "name": "Примарний жук",
-      "id": "TgwMnHCcdNWGNM1c",
       "description": "<p><strong>Ефект:&nbsp;</strong>Створює ілюзорного жука, який може нести 6 слотів інвентарю протягом <strong>[КІСТКИ] x 6 </strong>ходів.</p>\n<p><strong>Перезарядка:</strong> Закопати на цвинтарі жуків на три ночі.</p>"
     },
-    {
+    "XsUzOBXG1Vx78Zck": {
       "name": "Стукіт",
-      "id": "XsUzOBXG1Vx78Zck",
       "description": "<p><strong>Ефект:</strong> Відкриває двері або контейнер, ніби ви успішно пройшли \nперевірку <strong>СИЛ<strong>. Дистанція <strong>[КІСТКИ] x 6 дюймів<strong>.</p>\n<p><strong>Перезарядка:</strong> Покладіть у закриту коробку в закритій коробці всередині закритої коробки. Залиште на три дні.</p>"
     },
-    {
+    "ZD8j143dqMpKsvDy": {
       "name": "Невидиме кільце",
-      "id": "ZD8j143dqMpKsvDy",
       "description": "<p><strong>Ефект:</strong> Створює кільце сили <strong>[КІСТКИ] x 6<strong> дюймів. Воно невидиме і нерухоме. Триває <strong>[КІСТКИ]<strong> ходів.</p>\n<p><strong>Перезарядка:</strong> Виготовте залізне кільце того ж розміру, що й при останньому заклятті. Пропустіть закляття через нього. Кільце розчиняється.</p>"
     },
-    {
+    "Zk8WtKad1nbfOrCB": {
       "name": "Магічний снаряд",
-      "id": "Zk8WtKad1nbfOrCB",
       "description": "<p><strong>Ефект:</strong> Завдає <strong>[СУМА] + [КІСТКИ]<strong> шкоди істоті в межах видимості.</p>\n<p><strong>Перезарядка:</strong> Скиньте з висоти не менше <strong>30 футів<strong>. Торкніться закляття протягом одного ходу.</p>"
     },
-    {
+    "mT3B0o1FLT0I4yIo": {
       "name": "Світло",
-      "id": "mT3B0o1FLT0I4yIo",
       "description": "<p><strong>Effect:&nbsp;</strong>Змушує <strong>[КІСТКИ]<strong> істот пройти перевірку <strong>ВОЛ</strong> чи стати \nПриголомшеними. Або створює світло таке ж яскраве,\nяк смолоскип, на <strong>[СУМА]<strong> ходів.</p>\n<p><strong>Перезарядка:</strong> Піймайте перший світанковий промінь та останній промінь заходу сонця протягом трьох днів.</p>"
     },
-    {
+    "u3fkvN7VxSVtEqSb": {
       "name": "Зрозумій мене",
-      "id": "u3fkvN7VxSVtEqSb",
       "description": "<p><strong>Ефект:</strong> Донесіть свої твердження до <strong>[КІСТКИ]<strong> істот іншого виду на <strong>[КІСТКИ]<strong> ходів.</p>\n<p><strong>Перезарядка:</strong> Безкоштовно віддати істоті іншого виду.</p>"
     },
-    {
+    "yd1nVLwWrdS6sknY": {
       "name": "Страх",
-      "id": "yd1nVLwWrdS6sknY",
       "description": "<p><strong>Ефект:</strong> Накладає Наляканий стан <strong>[КІСТКИ]<strong> істотам.</p>\n<p><strong>Перезарядка:</strong> Отримати Наляканий стан від ворожої істоти, поки несете закляття.</p>"
     },
-    {
+    "zKXEyy8SuAUOHqk7": {
       "name": "Масть",
-      "id": "zKXEyy8SuAUOHqk7",
       "description": "<p><strong>Ефект:</strong> Покриває область <strong>[КІСТКИ] x 6 дюймів<strong> слизьким легкозаймистим мастилом. Істоти в цій області повинні пройти перевірку <strong>МОТ<strong> або впасти ниць.</p>\n<p><strong>Перезарядка: </strong>Обтерти тваринним жиром. Залишити, доки не засмердиться.</p>"
     }
-  ]
+  }
 }

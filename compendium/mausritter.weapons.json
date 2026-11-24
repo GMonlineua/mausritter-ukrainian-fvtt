@@ -3,106 +3,93 @@
   "mapping": {
     "description": "system.description",
     "placement": "system.placement",
-    "tag": "system.tag"
+    "tag": "system.tag",
+    "name": "name"
   },
-  "entries": [
-    {
+  "entries": {
+    "2gK7hXzu3TDGllTK": {
       "name": "Сокира",
-      "id": "2gK7hXzu3TDGllTK",
       "placement": "hand",
       "tag": "Середня",
       "description": ""
     },
-    {
+    "3UYDZQVca8rmErbU": {
       "name": "Лук",
-      "id": "3UYDZQVca8rmErbU",
       "placement": "hand",
       "tag": "Важка дистанційна",
       "description": ""
     },
-    {
+    "4WnNxpJ5RNafoCi3": {
       "name": "Імпровізована",
-      "id": "4WnNxpJ5RNafoCi3",
       "placement": "hand",
       "tag": "Імпровізована",
       "description": ""
     },
-    {
+    "4fi0j9IibcIrZluK": {
       "name": "Тесак",
-      "id": "4fi0j9IibcIrZluK",
       "placement": "hand",
       "tag": "Легка",
       "description": ""
     },
-    {
+    "6tTCXWnqP2CK8IDe": {
       "name": "Гак для сміття",
-      "id": "6tTCXWnqP2CK8IDe",
       "placement": "hand",
       "tag": "Важка",
       "description": ""
     },
-    {
+    "HqrIfbl7JpRpC0tQ": {
       "name": "Кирка",
-      "id": "HqrIfbl7JpRpC0tQ",
       "placement": "hand",
       "tag": "Середня",
       "description": ""
     },
-    {
+    "LIkXPQid5FNuX393": {
       "name": "Молот",
-      "id": "LIkXPQid5FNuX393",
       "placement": "hand",
       "tag": "Середня",
       "description": ""
     },
-    {
+    "O7ZKkdJ5kmAzCOHr": {
       "name": "Праща",
-      "id": "O7ZKkdJ5kmAzCOHr",
       "placement": "hand",
       "tag": "Легка дистанційна",
       "description": ""
     },
-    {
+    "R0VejRjAELxknNbN": {
       "name": "Меч",
-      "id": "R0VejRjAELxknNbN",
       "placement": "hand",
       "tag": "Середня",
       "description": ""
     },
-    {
+    "Ttuqe7BGihXRLziq": {
       "name": "Спис",
-      "id": "Ttuqe7BGihXRLziq",
       "placement": "hand",
       "tag": "Важка",
       "description": ""
     },
-    {
+    "kZVwXUFnlj4xi7zi": {
       "name": "Голка",
-      "id": "kZVwXUFnlj4xi7zi",
       "placement": "hand",
       "tag": "Легка",
       "description": ""
     },
-    {
+    "tpoh5HciZgfppCAt": {
       "name": "Булава",
-      "id": "tpoh5HciZgfppCAt",
       "placement": "hand",
       "tag": "Середня",
       "description": ""
     },
-    {
+    "uTBQtiPtEvUpntJH": {
       "name": "Бойовий молот",
-      "id": "uTBQtiPtEvUpntJH",
       "placement": "hand",
       "tag": "Важка",
       "description": ""
     },
-    {
+    "w3BvIQul7s6pwkG8": {
       "name": "Кинджал",
-      "id": "w3BvIQul7s6pwkG8",
       "placement": "hand",
       "tag": "Легка",
       "description": ""
     }
-  ]
+  }
 }

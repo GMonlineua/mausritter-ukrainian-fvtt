@@ -1,9 +1,7 @@
-Hooks.once('init', () => {
-	if(typeof Babele !== 'undefined') {
-		Babele.get().register({
-			module: 'mausritter-ukrainian',
-			lang: 'uk',
-			dir: 'compendium'
-		});
-	}
+Hooks.once("babele.init", (babele) => {
+  babele.register({
+    module: "mausritter-ukrainian",
+    lang: "uk",
+    dir: "compendium"
+  });
 });

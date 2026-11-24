@@ -2,445 +2,373 @@
   "label": "Спорядження",
   "mapping": {
     "placement": "system.placement",
-    "description": "system.description"
+    "description": "system.description",
+    "name": "name"
   },
-  "entries": [
-    {
+  "entries": {
+    "0kVNBhOCRAWetQGb": {
       "name": "Клей",
-      "id": "0kVNBhOCRAWetQGb",
       "placement": "hand",
       "description": ""
     },
-    {
+    "0yCyJ6ADcFo6h08F": {
       "name": "Сітка",
-      "id": "0yCyJ6ADcFo6h08F",
       "placement": "hand",
       "description": ""
     },
-    {
+    "1FbcAeInIVBBXoyB": {
       "name": "Книга",
-      "id": "1FbcAeInIVBBXoyB",
       "placement": "hand",
       "description": ""
     },
-    {
+    "2ibdQuqqcDrkdvTs": {
       "name": "Свисток",
-      "id": "2ibdQuqqcDrkdvTs",
       "placement": "hand",
       "description": ""
     },
-    {
+    "3VafgHWZBnAFj8M3": {
       "name": "Компас",
-      "id": "3VafgHWZBnAFj8M3",
       "placement": "hand",
       "description": ""
     },
-    {
+    "3b4wBjFkoWHTZ4D1": {
       "name": "Пляшка молока",
-      "id": "3b4wBjFkoWHTZ4D1",
       "placement": "hand",
       "description": ""
     },
-    {
+    "4earZoyzJPwEnauz": {
       "name": "Електричний ліхтарик",
-      "id": "4earZoyzJPwEnauz",
       "placement": "hand",
       "description": ""
     },
-    {
+    "5jrRJoqkEtDpUZUS": {
       "name": "Пляшка",
-      "id": "5jrRJoqkEtDpUZUS",
       "placement": "hand",
       "description": ""
     },
-    {
+    "8EMr2YGvQjhg3lej": {
       "name": "Перо та чорнила",
-      "id": "8EMr2YGvQjhg3lej",
       "placement": "hand",
       "description": ""
     },
-    {
+    "8GMxZ1TCbhWQmwsv": {
       "name": "Спальник",
-      "id": "8GMxZ1TCbhWQmwsv",
       "placement": "hand",
       "description": ""
     },
-    {
+    "A8tlvt6vgRHmIN91": {
       "name": "Дзеркало",
-      "id": "A8tlvt6vgRHmIN91",
       "placement": "hand",
       "description": ""
     },
-    {
+    "BtSLesZiZQOt9yhj": {
       "name": "Ліхтар",
-      "id": "BtSLesZiZQOt9yhj",
       "placement": "hand",
       "description": ""
     },
-    {
+    "EW1wFKynBHddyyGq": {
       "name": "Напилок по металу",
-      "id": "EW1wFKynBHddyyGq",
       "placement": "hand",
       "description": ""
     },
-    {
+    "EmOPMHKtWMua1zhF": {
       "name": "Шматок сиру",
-      "id": "EmOPMHKtWMua1zhF",
       "placement": "hand",
       "description": ""
     },
-    {
+    "EuWZ26fjA7E0Gka0": {
       "name": "Пайки",
-      "id": "EuWZ26fjA7E0Gka0",
       "placement": "hand",
       "description": ""
     },
-    {
+    "H72u8auTR4p0A1cU": {
       "name": "Набір для маскування",
-      "id": "H72u8auTR4p0A1cU",
       "placement": "hand",
       "description": ""
     },
-    {
+    "IhV9bZ3WX8sQnJAp": {
       "name": "Смолоскипи",
-      "id": "IhV9bZ3WX8sQnJAp",
       "placement": "hand",
       "description": ""
     },
-    {
+    "KN1j3bP1rAYXwh1R": {
       "name": "Окуляри",
-      "id": "KN1j3bP1rAYXwh1R",
       "placement": "hand",
       "description": ""
     },
-    {
+    "KX3ZrZF7Yly6KQ4z": {
       "name": "Крейда",
-      "id": "KX3ZrZF7Yly6KQ4z",
       "placement": "hand",
       "description": ""
     },
-    {
+    "KjMdsbdojwDXJFF1": {
       "name": "Мастило",
-      "id": "KjMdsbdojwDXJFF1",
       "placement": "hand",
       "description": ""
     },
-    {
+    "KppUOvvn8XrFP5yG": {
       "name": "Дерев'яні шипи",
-      "id": "KppUOvvn8XrFP5yG",
       "placement": "hand",
       "description": ""
     },
-    {
+    "Ln1kjNNNetZBPJOd": {
       "name": "Лопата",
-      "id": "Ln1kjNNNetZBPJOd",
       "placement": "hand",
       "description": ""
     },
-    {
+    "LsuTZqZTzZACXtBf": {
       "name": "Лінза",
-      "id": "LsuTZqZTzZACXtBf",
       "placement": "hand",
       "description": ""
     },
-    {
+    "OZrpQkk9qrfvE79X": {
       "name": "Каструлі",
-      "id": "OZrpQkk9qrfvE79X",
       "placement": "hand",
       "description": ""
     },
-    {
+    "PUc63ut2mgqUyGKs": {
       "name": "Документи, запечатані",
-      "id": "PUc63ut2mgqUyGKs",
       "placement": "hand",
       "description": ""
     },
-    {
+    "Q8VPlUXtYVdzRUbS": {
       "name": "Невеличка бочка елю",
-      "id": "Q8VPlUXtYVdzRUbS",
       "placement": "hand",
       "description": ""
     },
-    {
+    "QXn9R6uDfBWTnQsT": {
       "name": "Ножиці",
-      "id": "QXn9R6uDfBWTnQsT",
       "placement": "hand",
       "description": ""
     },
-    {
+    "QgYJojJerwXayQQV": {
       "name": "Ланцюжок для намиста",
-      "id": "QgYJojJerwXayQQV",
       "placement": "hand",
       "description": null
     },
-    {
+    "Qx4VmVHXNmyacUkL": {
       "name": "Відро",
-      "id": "Qx4VmVHXNmyacUkL",
       "placement": "hand",
       "description": ""
     },
-    {
+    "RNWwqAjfES5TOYhF": {
       "name": "Сірники, пачка",
-      "id": "RNWwqAjfES5TOYhF",
       "placement": "hand",
       "description": ""
     },
-    {
+    "TGNSgaCQsssts5os": {
       "name": "Сушені гриби (як пайок)",
-      "id": "TGNSgaCQsssts5os",
       "placement": "hand",
       "description": ""
     },
-    {
+    "TJEiqBJXGRuiOHEQ": {
       "name": "Дріт, котушка",
-      "id": "TJEiqBJXGRuiOHEQ",
       "placement": "hand",
       "description": ""
     },
-    {
+    "U8zT0oNputtkmoKZ": {
       "name": " Карта скарбів",
-      "id": "U8zT0oNputtkmoKZ",
       "placement": "hand",
       "description": ""
     },
-    {
+    "UYBlJt4TrBfa6cCV": {
       "name": "Мішечок з зубами кажана",
-      "id": "UYBlJt4TrBfa6cCV",
       "placement": "hand",
       "description": ""
     },
-    {
+    "V4ChlJOFAJg1TEtu": {
       "name": "Набір шахрайських кісток",
-      "id": "V4ChlJOFAJg1TEtu",
       "placement": "hand",
       "description": ""
     },
-    {
+    "VZEE5zeOXrqTZQEr": {
       "name": "Мишоловка",
-      "id": "VZEE5zeOXrqTZQEr",
       "placement": "hand",
       "description": ""
     },
-    {
+    "WbznGS06x1gFfJ0X": {
       "name": "Найманець: вірний жук",
-      "id": "WbznGS06x1gFfJ0X",
       "placement": "hand",
       "description": ""
     },
-    {
+    "YCFM1jFDJ7CZ3bNI": {
       "name": "Стамеска",
-      "id": "YCFM1jFDJ7CZ3bNI",
       "placement": "hand",
       "description": ""
     },
-    {
+    "Z4aLmftg89RUfpUW": {
       "name": "Міх",
-      "id": "Z4aLmftg89RUfpUW",
       "placement": "hand",
       "description": ""
     },
-    {
+    "ZsmzHWLCNH9M2L15": {
       "name": "Маска від спор",
-      "id": "ZsmzHWLCNH9M2L15",
       "placement": "hand",
       "description": ""
     },
-    {
+    "be6ea02WNMh5O9ow": {
       "name": "Бурдюк для води",
-      "id": "be6ea02WNMh5O9ow",
       "placement": "hand",
       "description": ""
     },
-    {
+    "cp458bYOtIwPZp4Q": {
       "name": "Каміння, мішечок",
-      "id": "cp458bYOtIwPZp4Q",
       "placement": "hand",
       "description": ""
     },
-    {
+    "e4SXeMrmG7TbLyRc": {
       "name": "Нитки, котушка",
-      "id": "e4SXeMrmG7TbLyRc",
       "placement": "hand",
       "description": null
     },
-    {
+    "e8JWY1U6l4FBNNep": {
       "name": "Батарейки (для ліхтарика)",
-      "id": "e8JWY1U6l4FBNNep",
       "placement": "hand",
       "description": ""
     },
-    {
+    "eEh9d4ozBfoJJt7D": {
       "name": "Стріли, сагайдак",
-      "id": "eEh9d4ozBfoJJt7D",
       "placement": "hand",
       "description": ""
     },
-    {
+    "ggmcbI5MP7i3EINr": {
       "name": "Гаманець із зернятками",
-      "id": "ggmcbI5MP7i3EINr",
       "description": ""
     },
-    {
+    "ghG9I5GwQwdGd83o": {
       "name": "Відмички",
-      "id": "ghG9I5GwQwdGd83o",
       "placement": "hand",
       "description": ""
     },
-    {
+    "h3vmVonEywSKtdjg": {
       "name": "Ароматична паличка",
-      "id": "h3vmVonEywSKtdjg",
       "placement": "hand",
       "description": ""
     },
-    {
+    "hyOUDp1FdjAr8Jqb": {
       "name": "Пісочний годинник",
-      "id": "hyOUDp1FdjAr8Jqb",
       "placement": "hand",
       "description": ""
     },
-    {
+    "hzmDCkBVxvJOrrAg": {
       "name": "Головка сиру",
-      "id": "hzmDCkBVxvJOrrAg",
       "placement": "hand",
       "description": ""
     },
-    {
+    "is0vgpj8gTf7A8Dh": {
       "name": "Святий символ",
-      "id": "is0vgpj8gTf7A8Dh",
       "placement": "hand",
       "description": ""
     },
-    {
+    "isTdJXTa0dpJtdk4": {
       "name": "Ключ",
-      "id": "isTdJXTa0dpJtdk4",
       "placement": "hand",
       "description": ""
     },
-    {
+    "jlvULohSiRf5ySqe": {
       "name": "Уривок незрозумілої книги",
-      "id": "jlvULohSiRf5ySqe",
       "placement": "hand",
       "description": ""
     },
-    {
+    "k4VMEXr5yyhlSF2c": {
       "name": "Боргова розписка на 20 зерняток від миші-шляхтича",
-      "id": "k4VMEXr5yyhlSF2c",
       "placement": "hand",
       "description": ""
     },
-    {
+    "k9kmk6zA3u9IbHqJ": {
       "name": "Музичний інструмент",
-      "id": "k9kmk6zA3u9IbHqJ",
       "placement": "hand",
       "description": ""
     },
-    {
+    "kMxQfo66zoCxuWg6": {
       "name": "Набір гральних кісток",
-      "id": "kMxQfo66zoCxuWg6",
       "placement": "hand",
       "description": ""
     },
-    {
+    "l1GnC3gatjidKix9": {
       "name": "Парфуми",
-      "id": "l1GnC3gatjidKix9",
       "placement": "hand",
       "description": ""
     },
-    {
+    "m3L7O0km0fQyw8pf": {
       "name": "Молоток",
-      "id": "m3L7O0km0fQyw8pf",
       "placement": "hand",
       "description": ""
     },
-    {
+    "msJVB6OstIZ3AC2M": {
       "name": "Отрута",
-      "id": "msJVB6OstIZ3AC2M",
       "placement": "hand",
       "description": ""
     },
-    {
+    "nuK5O2X68yGQQ3k3": {
       "name": "Найманець",
-      "id": "nuK5O2X68yGQQ3k3",
       "placement": "hand",
       "description": ""
     },
-    {
+    "nyzOdgjgAxQ7wBOh": {
       "name": "Дриль",
-      "id": "nyzOdgjgAxQ7wBOh",
       "placement": "hand",
       "description": ""
     },
-    {
+    "t4KWOCDfm6L1AIFj": {
       "name": "Найманець: факелоноша",
-      "id": "t4KWOCDfm6L1AIFj",
       "placement": "hand",
       "description": ""
     },
-    {
+    "tBrL4wxGqs7pmLVi": {
       "name": "Фетровий капелюх",
-      "id": "tBrL4wxGqs7pmLVi",
       "placement": "hand",
       "description": ""
     },
-    {
+    "vOqvTbPWoqUbB1yQ": {
       "name": "Дерев'яна жердина, 6 дюймів",
-      "id": "vOqvTbPWoqUbB1yQ",
       "placement": "hand",
       "description": ""
     },
-    {
+    "vQIpvCoaRe23aq4g": {
       "name": "Баночка з медом",
-      "id": "vQIpvCoaRe23aq4g",
       "placement": "hand",
       "description": ""
     },
-    {
+    "vjwIDZpIeczbKbW3": {
       "name": "Намет",
-      "id": "vjwIDZpIeczbKbW3",
       "placement": "hand",
       "description": ""
     },
-    {
+    "wDXdllAA6LjjCT6e": {
       "name": "Мило",
-      "id": "wDXdllAA6LjjCT6e",
       "placement": "hand",
       "description": ""
     },
-    {
+    "xsEwVxA3rE3TTtdF": {
       "name": "Якірці, мішечок",
-      "id": "xsEwVxA3rE3TTtdF",
       "placement": "hand",
       "description": ""
     },
-    {
+    "yAW0nmonxXHg34iB": {
       "name": "Фляжка з кавою",
-      "id": "yAW0nmonxXHg34iB",
       "placement": "hand",
       "description": ""
     },
-    {
+    "z5SsMFpZLtoJ4QW4": {
       "name": "Замок і ключ",
-      "id": "z5SsMFpZLtoJ4QW4",
       "placement": "hand",
       "description": ""
     },
-    {
+    "zd7a3t2PWGbTuMyt": {
       "name": "Шпагат",
-      "id": "zd7a3t2PWGbTuMyt",
       "placement": "hand",
       "description": ""
     },
-    {
+    "zf7P6wzi794uqZfj": {
       "name": "Лом",
-      "id": "zf7P6wzi794uqZfj",
       "placement": "hand",
       "description": ""
     },
-    {
+    "zo3tuzkhjPuYkAOG": {
       "name": "Рибальський гачок",
-      "id": "zo3tuzkhjPuYkAOG",
       "placement": "hand",
       "description": ""
     }
-  ]
+  }
 }
